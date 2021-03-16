@@ -1,3 +1,5 @@
+//divide the array into k subarrays so that the maximum sum in a subarray is as small as possible.
+
 #include<bits/stdc++.h>
 using namespace std;
  
