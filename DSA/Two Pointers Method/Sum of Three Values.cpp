@@ -1,3 +1,5 @@
+//find three array elements whose sum is x
+
 #include<bits/stdc++.h>
 using namespace std;
  
