@@ -1,3 +1,5 @@
+//assign the cows to the stalls, such that the minimum distance between any two of them is as large as possible.
+
 #include<bits/stdc++.h>
 using namespace std;
  
